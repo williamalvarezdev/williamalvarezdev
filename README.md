@@ -1,17 +1,10 @@
 
-<div align="center">
 
 ![JauntyThoroughAsianporcupine-max-1mb](https://media.licdn.com/dms/image/v2/D4E16AQF6IlQRMxNjYg/profile-displaybackgroundimage-shrink_350_1400/B4EZbUq89lHYAc-/0/1747324752290?e=1752710400&v=beta&t=4mgDgGfJ7Sw5-f0dg7PjzzG7fhCNQa5UVn1Z_pvYUnY)
 
- </div>
-
-<div align="center">
-  
-# 👋 Hi, I’m William!
-  
-</div>
 <div style="display: flex; justify-content: center; align-items: center; color: white; ">
-  <div style="border-radius: 10px; background-color: rgb(222, 114, 131); padding: 50px;">
+
+<div style="border-radius: 10px; background-color: rgb(222, 114, 131); padding: 50px;">
 
 <div style="display: flex; flex-direction: row; gap: 40px; align-items: center;">
 
@@ -31,7 +24,7 @@
   </div>
 </div>
 
-  
+  <div>
   </br>
   💻 DevOps Engineer </br>
   🏠 London, UK</br>
@@ -40,6 +33,7 @@
   💞️ I’m looking to collaborate on open source projects.</br>
   👀 Interested in tech, blockchain, programming languages, lifelonglearning.</br>
   🌱 I’m currently learning more about Grafana.
+  </div>
 
   </div>
   </div>
