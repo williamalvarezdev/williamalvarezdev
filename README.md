@@ -16,17 +16,17 @@
 <div style="display: flex; flex-direction: row; gap: 40px; align-items: center;">
 
   <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="./web.png" style="width: 24px; filter: brightness(0) invert(1);">
+    <img src="https://raw.githubusercontent.com/williamalvarezdev/williamalvarezdev/refs/heads/main/web.png" style="width: 24px; filter: brightness(0) invert(1);">
     <a style="color: white;" href="https://williamalvarez.dev">williamalvarez.dev</a>
   </div>
 
   <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="./linkedin.png" style="width: 24px; filter: brightness(0) invert(1);">
-    <a style="color: white;" href="https://linkedin.com/in/williamalvarezdev">@williamalvarezdev</a>
+    <img src="https://raw.githubusercontent.com/williamalvarezdev/williamalvarezdev/refs/heads/main/Linkedin.png" style="width: 24px; filter: brightness(0) invert(1);">
+    <a style="color: white;" href="https://linkedin.com/in/williamalvarezdev">williamalvarezdev</a>
   </div>
 
   <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="./twitter.png" style="width: 24px; filter: brightness(0) invert(1);">
+    <img src="https://raw.githubusercontent.com/williamalvarezdev/williamalvarezdev/refs/heads/main/twitter.png" style="width: 24px; filter: brightness(0) invert(1);">
     <a style="color: white;" href="https://x.com/williamalvadev">@williamalvadev</a>
   </div>
 </div>
