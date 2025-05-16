@@ -1,27 +1,51 @@
+
+<div align="center">
+
+![JauntyThoroughAsianporcupine-max-1mb](https://media.licdn.com/dms/image/v2/D4E16AQF6IlQRMxNjYg/profile-displaybackgroundimage-shrink_350_1400/B4EZbUq89lHYAc-/0/1747324752290?e=1752710400&v=beta&t=4mgDgGfJ7Sw5-f0dg7PjzzG7fhCNQa5UVn1Z_pvYUnY)
+
+ </div>
+
 <div align="center">
   
 # 👋 Hi, I’m William!
   
 </div>
+<div style="display: flex; justify-content: center; align-items: center; color: white; ">
+  <div style="border-radius: 10px; background-color: rgb(222, 114, 131); padding: 50px;">
 
-<div align="center">
+<div style="display: flex; flex-direction: row; gap: 40px; align-items: center;">
 
-![JauntyThoroughAsianporcupine-max-1mb](https://user-images.githubusercontent.com/83907621/141540694-abb16686-5d52-4cb1-92e7-32f7e3743882.gif)
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="./web.png" style="width: 24px; filter: brightness(0) invert(1);">
+    <a style="color: white;" href="https://williamalvarez.dev">williamalvarez.dev</a>
+  </div>
 
- </div>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="./linkedin.png" style="width: 24px; filter: brightness(0) invert(1);">
+    <a style="color: white;" href="https://linkedin.com/in/williamalvarezdev">@williamalvarezdev</a>
+  </div>
 
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="./twitter.png" style="width: 24px; filter: brightness(0) invert(1);">
+    <a style="color: white;" href="https://x.com/williamalvadev">@williamalvadev</a>
+  </div>
+</div>
 
-## About me
-  💻 DevOps Engineer</br>
+  
+  </br>
+  💻 DevOps Engineer </br>
   🏠 London, UK</br>
   🎹 Tab coder</br>
   🤖 Preferred language: Python.</br>
   💞️ I’m looking to collaborate on open source projects.</br>
   👀 Interested in tech, blockchain, programming languages, lifelonglearning.</br>
-  🌱 I’m currently learning more about Grafana.</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamalvarezdev&layout=compact&theme=github_dark)
+  🌱 I’m currently learning more about Grafana.
 
-My contributions:
+  </div>
+  </div>
+
+<br></br>
+My Github contributions:
 
 <picture>
   <source
