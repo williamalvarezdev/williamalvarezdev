@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://williamalvarez.dev"><img src="https://raw.githubusercontent.com/williamalvarezdev/williamalvarezdev/refs/heads/main/web.png" width="8%" /> </a> 
-  <a href="https://linkedin.com/in/williamalvarezdev"><img src="https://raw.githubusercontent.com/williamalvarezdev/williamalvarezdev/refs/heads/main/Linkedin.png" width="8%" /></a> 
+  <a href="https://linkedin.com/in/williamalvarezdev"><img src="https://raw.githubusercontent.com/williamalvarezdev/williamalvarezdev/refs/heads/main/linkedin.png" width="8%" /></a> 
   <a href="https://x.com/williamalvadev"><img src="https://raw.githubusercontent.com/williamalvarezdev/williamalvarezdev/refs/heads/main/twitter.png" width="8%" /></a>
 </p>
 
