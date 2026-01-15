@@ -11,7 +11,7 @@
 </p> -->
 
 <p align="center">
-  💻 DevOps Engineer &nbsp; | &nbsp; 🏠 London, UK 
+  <!-- 💻 DevOps Engineer &nbsp; | &nbsp; 🏠 London, UK  -->
 
 
 
