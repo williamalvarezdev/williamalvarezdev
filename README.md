@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQF6IlQRMxNjYg/profile-displaybackgroundimage-shrink_350_1400/B4EZbUq89lHYAc-/0/1747324752290?e=1752710400&v=beta&t=4mgDgGfJ7Sw5-f0dg7PjzzG7fhCNQa5UVn1Z_pvYUnY" alt="Banner" />
-</p>
+
 
 <h1 align="center">👋 Hi, I’m William!</h1>
 
